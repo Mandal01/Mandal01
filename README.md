@@ -23,11 +23,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=Mandal01&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)<br>
-<img  height="" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="image">
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img  align="right" height="25" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="image">
 
 ### 🔝 Top Contributed Repo
-<img align="right" height="" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="image">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="image">
 
 ![](https://github-contributor-stats.vercel.app/api?username=Mandal01&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
